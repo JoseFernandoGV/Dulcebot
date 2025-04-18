@@ -1,0 +1,8 @@
+psycopg2-binary
+sentence-transformers ==3.4.1
+langchain
+langgraph
+chainlit==2.2.1
+langchain-google-genai
+
+
